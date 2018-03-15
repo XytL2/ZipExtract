@@ -1,0 +1,10 @@
+C:\Users\johnr\source\ReposZipExtract\ZipExtract\ZipExtract\obj\Debug\ZipExtract.vbproj.GenerateResource.Cache
+C:\Users\johnr\source\ReposZipExtract\ZipExtract\ZipExtract\obj\Debug\ZipExtract.vbproj.CoreCompileInputs.cache
+C:\Users\johnr\source\ReposZipExtract\ZipExtract\ZipExtract\bin\Debug\ZipExtract.exe.config
+C:\Users\johnr\source\ReposZipExtract\ZipExtract\ZipExtract\bin\Debug\ZipExtract.exe
+C:\Users\johnr\source\ReposZipExtract\ZipExtract\ZipExtract\bin\Debug\ZipExtract.pdb
+C:\Users\johnr\source\ReposZipExtract\ZipExtract\ZipExtract\bin\Debug\ZipExtract.xml
+C:\Users\johnr\source\ReposZipExtract\ZipExtract\ZipExtract\obj\Debug\ZipExtract.Resources.resources
+C:\Users\johnr\source\ReposZipExtract\ZipExtract\ZipExtract\obj\Debug\ZipExtract.exe
+C:\Users\johnr\source\ReposZipExtract\ZipExtract\ZipExtract\obj\Debug\ZipExtract.xml
+C:\Users\johnr\source\ReposZipExtract\ZipExtract\ZipExtract\obj\Debug\ZipExtract.pdb
